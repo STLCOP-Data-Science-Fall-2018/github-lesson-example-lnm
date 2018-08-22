@@ -1,2 +1,2 @@
 This is an example test file. It currently has one line.
-
+I have added this line in the web browser
